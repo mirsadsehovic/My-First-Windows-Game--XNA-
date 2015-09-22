@@ -1,0 +1,72 @@
+c:\users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+c:\users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+c:\users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+c:\users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\player2.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke1.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke2.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.manifest
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.application
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe.manifest
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.application
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\16 Moonchild.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\16 Moonchild.wma
+C:\Users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+C:\Users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpiteFont.xnb
+C:\Users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Menu.xnb
+C:\Users\solidmir0\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Pause.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Text.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fail.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\StageClear.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPLay.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Enemy2.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\FinalTiles4.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\LimboFinal.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dead.xnb
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dead.wma
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\player2.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke1.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke2.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Pause.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fail.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\StageClear.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Menu.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPLay.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Enemy2.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\FinalTiles4.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\LimboFinal.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\16 Moonchild.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dead.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpiteFont.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Text.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\16 Moonchild.wma
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Dead.wma
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.manifest
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.application
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe.manifest
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.application
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Complete2.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\FinalTiles5.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\GameCompleted3.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Failed2.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\player2left.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\3.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\3.wma
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\6.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\7.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\8.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\9.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\14.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\18.xnb
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\WalkingSquare.xnb

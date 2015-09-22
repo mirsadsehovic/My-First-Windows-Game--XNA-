@@ -1,0 +1,2 @@
+C:\Users\solidmir0\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dokument\Skolan\Spelprogrammering\SVNSpelprogrammering\Final\WindowsGame2\WindowsGame2Content\obj\x86\Release\ResolveAssemblyReference.cache

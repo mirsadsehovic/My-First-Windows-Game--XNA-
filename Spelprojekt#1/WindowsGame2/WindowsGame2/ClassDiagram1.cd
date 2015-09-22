@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsGame2.Game1" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.MovingTiles" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQABAAAACAAAAAQAAAAABAAAAEAAgQAAAAAAAIAAAA=</HashCode>
+      <FileName>Model\MovingTiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.Program" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.Controller.MasterController" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhQAAACCAAAABoAAAAAAIAAAAAAABAAAAAAAAJAAAAA=</HashCode>
+      <FileName>MasterController\MasterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.Model.Enemy" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQABAAAACAAAEAQAAAAABAAAAEAAgQAAAAAAAIAAAA=</HashCode>
+      <FileName>Model\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.Model.Level" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAEAAABACCAIAAKQggAAABBAAAAAAIASAgAUBA=</HashCode>
+      <FileName>Model\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.Model.Model" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QASIAAECAAAAACAAQAAGEAQBAAIAAIAAAEAQAQkAABI=</HashCode>
+      <FileName>Model\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.Model.Player" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAEAQCAQgAAAAAAAABAAAAEAAgACAAAAAAgABAA=</HashCode>
+      <FileName>Model\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.View.Camera" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAADAAAAAAAAAAAAAAAAABIAAAAAAAAAA=</HashCode>
+      <FileName>View\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.View.Menu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAwgCCIACJAAFgBEAAKQABAAgCQIAAAACBIBiAAAA=</HashCode>
+      <FileName>View\Menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WindowsGame2.View.SmokeSystem" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQAAAAAAAAAAAAAAEAAAQgAAAAAAAAAAQ=</HashCode>
+      <FileName>View\SmokeSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame2.View.View" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DFCgBIEAAAAAEoBAAQAAQAsDARAAAUCIAAAQACEBABA=</HashCode>
+      <FileName>View\View.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="WindowsGame2.Model.ISpundObserver" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ISpundObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WindowsGame2.Model.IStateObserver" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

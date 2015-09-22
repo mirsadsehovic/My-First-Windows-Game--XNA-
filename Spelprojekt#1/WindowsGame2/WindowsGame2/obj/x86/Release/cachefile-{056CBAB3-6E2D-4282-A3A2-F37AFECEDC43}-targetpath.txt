@@ -1,0 +1,32 @@
+Content\player2.xnb
+Content\smoke1.xnb
+Content\smoke2.xnb
+Content\Pause.xnb
+Content\Fail.xnb
+Content\StageClear.xnb
+Content\Menu.xnb
+Content\HowToPLay.xnb
+Content\Enemy2.xnb
+Content\FinalTiles4.xnb
+Content\LimboFinal.xnb
+Content\Complete2.xnb
+Content\FinalTiles5.xnb
+Content\GameCompleted3.xnb
+Content\Failed2.xnb
+Content\16 Moonchild.xnb
+Content\16 Moonchild.wma
+Content\Dead.xnb
+Content\Dead.wma
+Content\Font.xnb
+Content\SpiteFont.xnb
+Content\Text.xnb
+Content\1.xnb
+Content\player2left.xnb
+Content\3.xnb
+Content\3.wma
+Content\6.xnb
+Content\7.xnb
+Content\8.xnb
+Content\9.xnb
+Content\14.xnb
+Content\18.xnb
